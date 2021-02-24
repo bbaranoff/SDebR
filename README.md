@@ -1,1 +1,2 @@
 # SDebR
+sudo ./install.sh
